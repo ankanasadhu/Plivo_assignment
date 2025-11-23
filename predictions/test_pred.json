@@ -1,0 +1,29 @@
+{
+  "utt_0201": [
+    {
+      "start": 12,
+      "end": 27,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 31,
+      "end": 44,
+      "label": "EMAIL",
+      "pii": true
+    },
+    {
+      "start": 58,
+      "end": 60,
+      "label": "CREDIT_CARD",
+      "pii": true
+    },
+    {
+      "start": 62,
+      "end": 68,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "utt_0202": []
+}
